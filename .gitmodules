@@ -1,0 +1,3 @@
+[submodule "ThirdParty/basalt-headers"]
+	path = ThirdParty/basalt-headers
+	url = https://github.com/RoblabWh/basalt-headers.git

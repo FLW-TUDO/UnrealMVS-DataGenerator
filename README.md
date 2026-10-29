@@ -90,6 +90,7 @@ If you use UnrealMVS in your research, please cite:
   keywords={Modeling;Cameras;Printing;Pipelines;Training;Rendering (computer graphics);Image sensors;Calibration;Conferences;Urban areas;Synthetic Datasets;Equirectangular Images;Depth Images;Multi-View Stereo;Fisheye Cameras},
   doi={10.1109/ETFA68377.2026.11725285}}
 }
+```
 
 ---
 

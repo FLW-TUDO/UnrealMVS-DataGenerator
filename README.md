@@ -74,13 +74,22 @@ Build the plugin without opening the Editor:
 
 ## Citation
 
-This work has been accepted for **ETFA 2026**. If you use UnrealMVS in your research, please cite it.
+This work was accepted for **ETFA 2026**.
 
-> **Note:** The DOI will be added here once it is available.
+If you use UnrealMVS in your research, please cite:
 
 ```bibtex
-K. P. Rösner, J. Rutinowski, H. Surmann and A. Kirchheim, "UnrealMVS: A Generator for Synthetic Multi-Fisheye Omnidirectional Depth Data," 2026 IEEE 31st International Conference on Emerging Technologies and Factory Automation (ETFA), Vasteras, Sweden, 2026, pp. 01-08, doi: 10.1109/ETFA68377.2026.11725285. keywords: {Modeling;Cameras;Printing;Pipelines;Training;Rendering (computer graphics);Image sensors;Calibration;Conferences;Urban areas;Synthetic Datasets;Equirectangular Images;Depth Images;Multi-View Stereo;Fisheye Cameras},
-```
+@INPROCEEDINGS{11725285,
+  author={Rösner, Karol Piotr and Rutinowski, Jérôme and Surmann, Hartmut and Kirchheim, Alice},
+  booktitle={2026 IEEE 31st International Conference on Emerging Technologies and Factory Automation (ETFA)}, 
+  title={UnrealMVS: A Generator for Synthetic Multi-Fisheye Omnidirectional Depth Data}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={01-08},
+  keywords={Modeling;Cameras;Printing;Pipelines;Training;Rendering (computer graphics);Image sensors;Calibration;Conferences;Urban areas;Synthetic Datasets;Equirectangular Images;Depth Images;Multi-View Stereo;Fisheye Cameras},
+  doi={10.1109/ETFA68377.2026.11725285}}
+}
 
 ---
 

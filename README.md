@@ -79,7 +79,7 @@ This work has been accepted for **ETFA 2026**. If you use UnrealMVS in your rese
 > **Note:** The DOI will be added here once it is available.
 
 ```bibtex
-% Citation will be added here (DOI pending).
+K. P. Rösner, J. Rutinowski, H. Surmann and A. Kirchheim, "UnrealMVS: A Generator for Synthetic Multi-Fisheye Omnidirectional Depth Data," 2026 IEEE 31st International Conference on Emerging Technologies and Factory Automation (ETFA), Vasteras, Sweden, 2026, pp. 01-08, doi: 10.1109/ETFA68377.2026.11725285. keywords: {Modeling;Cameras;Printing;Pipelines;Training;Rendering (computer graphics);Image sensors;Calibration;Conferences;Urban areas;Synthetic Datasets;Equirectangular Images;Depth Images;Multi-View Stereo;Fisheye Cameras},
 ```
 
 ---
